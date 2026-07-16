@@ -1,17 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2563EB&height=220&section=header&text=Tarun%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-
-# Hi 👋 I'm Tarun Kumar
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=CSE+Student;DSA+Enthusiast;Frontend+Developer;React+Learner;Open+Source+Contributor"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2563EB&height=200&section=header&text=Hi%20There,%20I'm%20Tarun%20Kumar%20%F0%9F%91%8B&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20DSA%20Enthusiast%20%7C%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/the-tarrunn)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunkumarpal253@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarunkumar853)
 
 </div>
-
 ---
 
 # 👨‍💻 About Me
