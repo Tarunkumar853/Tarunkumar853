@@ -137,3 +137,7 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E3A8A&height=120&section=footer"/>
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Tarunkumar853/Tarunkumar853/output/github-contribution-grid-snake.svg)
