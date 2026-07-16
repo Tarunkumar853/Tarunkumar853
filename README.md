@@ -120,15 +120,9 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Tarunkumar853/Tarunkumar853/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
+![Snake animation](https://raw.githubusercontent.com/Tarunkumar853/Tarunkumar853/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 
