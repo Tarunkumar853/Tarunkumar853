@@ -35,12 +35,12 @@
 
 <p align="center">
 
-<a href="https://leetcode.com/u/26_CSE_0853/">
+<a href="https://leetcode.com/u/Tarrunn_Pal/">
 <img src="https://img.shields.io/badge/LeetCode-100%2B-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://www.codechef.com/users/the_tarrunn">
-<img src="https://img.shields.io/badge/CodeChef-200%2B-brown?style=for-the-badge&logo=codechef"/>
+<img src="https://img.shields.io/badge/CodeChef-500+2B-brown?style=for-the-badge&logo=codechef"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/tarunkumajjlu?tab=activity">
